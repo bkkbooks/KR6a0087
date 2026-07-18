@@ -22,7 +22,7 @@ assets:
   - {seq: 0, filename: KR6a0087_000-T.yaml, hash: 'sha256:8801a37aa8fc431c355744d9b592c55e34d9cfe8c2d84c3a897eedff3ab14e9e'}
   - {seq: 1, filename: KR6a0087_001-T.yaml, hash: 'sha256:44c834f14baec1edec1ace3f435db7d4be4347d72c935f9a156c9cf87f03324d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0087_000-T.markers.yaml, hash: 'sha256:00e2800fb4cf99fc14cf4a04bddd6fef5bb56f5339a47ffb27b1c568b7d5c635'}
+  - {seq: 0, role: markers, filename: assets/KR6a0087_000-T.markers.yaml, hash: 'sha256:9b581e7725b0be75848c0b05d5068d2bcceedf5e91e0d74f047de8ce5ee1af33'}
   - {seq: 1, role: markers, filename: assets/KR6a0087_001-T.markers.yaml, hash: 'sha256:2dc5dd149f4887c0e2ef90ca3fcd4345038bb0de568033195fcf1c145e00439f'}
 table_of_contents:
 - ref:
@@ -35,4 +35,4 @@ table_of_contents:
   label: 佛說齋經
   type: juan
   level: 1
-hash: sha256:c5d59765a73fd3f9e096a0ea314848a15896e3284304c8d7aff24c2aba22c93b
+hash: sha256:d4b5ba2d32ad3eb4f02fec96f2c636644cdba5ef279b35bb648b25d72bc26cf8
